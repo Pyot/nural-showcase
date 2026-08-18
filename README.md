@@ -6,7 +6,7 @@
   </picture>
 
   <h1>Nural</h1>
-  <p>A personal learning system that connects web highlights, video timestamps, notes and flashcards with daily study sessions and spaced review.</p>
+  <p>Nural brings learning from scattered sources—across the web, mobile and AI conversations—into one system for planning, organizing study materials, and creating and managing reviews.</p>
 
   <p>
     <img src="https://img.shields.io/badge/status-closed_beta-FFB25E?style=flat-square" alt="Status: closed beta">
@@ -23,7 +23,9 @@
 
 ## The product
 
-Saving an article is easy. Returning to what mattered, remembering when you studied it, and deciding what to review takes more work. Nural connects those steps for people learning from articles, videos and their own notes.
+Learning happens in different places: a page in your browser, material on your phone, or a conversation with an AI assistant. Keeping track of what to study, what you have already worked on, and what needs another review can become a separate task.
+
+Nural gives that process a shared structure. You can plan topics and study time, organize materials, record your learning in daily sessions, and prepare notes and flashcards for review. Scheduled reviews help you return to what you studied. Through MCP, an AI assistant can work with the same learning history and materials.
 
 The product is in **closed beta**. It includes a web dashboard, a Chrome extension, mobile companion apps and an MCP integration. Access and distribution vary by platform; the [beta guide](https://nural.study/beta) is the current reference.
 
