@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/nural-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/nural-logo-light.svg">
-    <img src="assets/nural-logo-light.svg" alt="Nural" width="246" height="72">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pyot/nural-showcase/main/assets/nural-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pyot/nural-showcase/main/assets/nural-logo-light.svg">
+    <img src="https://raw.githubusercontent.com/Pyot/nural-showcase/main/assets/nural-logo-light.svg" alt="Nural" width="246" height="72">
   </picture>
 
   <h1>Nural</h1>
