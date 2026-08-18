@@ -41,9 +41,41 @@ The product is in **closed beta**. It includes a web dashboard, a Chrome extensi
 
 ## A look inside
 
+### Web dashboard
+
 ![Nural dashboard showing a session review queue, today's session and focus time](assets/dashboard.png)
 
 *An existing beta dashboard capture with synthetic test sessions and a dummy account. The displayed values are sample data.*
+
+### Mobile app
+
+<table>
+  <tr>
+    <th>Today's learning session</th>
+    <th>Session review queue</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="assets/mobile-sessions.jpg"><img src="assets/mobile-sessions.jpg" alt="Nural mobile app showing captured pages, a note and the daily learning timeline" width="300"></a></td>
+    <td align="center"><a href="assets/mobile-reviews.jpg"><img src="assets/mobile-reviews.jpg" alt="Nural mobile app showing two study sessions due for review" width="300"></a></td>
+  </tr>
+</table>
+
+*Phone-sized captures of the actual Expo / React Native app running in its web preview, with synthetic demo data.*
+
+### Chrome extension
+
+<table>
+  <tr>
+    <th>Sources in the side panel</th>
+    <th>Focus timer</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="assets/extension-sources.png"><img src="assets/extension-sources.png" alt="Nural Chrome extension listing captured pages and notes in its Sources tab" width="300"></a></td>
+    <td align="center"><a href="assets/extension-focus.png"><img src="assets/extension-focus.png" alt="Nural Chrome extension showing the Focus timer and study history" width="300"></a></td>
+  </tr>
+</table>
+
+*Existing beta side-panel screenshots with sample material and an empty Focus history.*
 
 ## Architecture
 
